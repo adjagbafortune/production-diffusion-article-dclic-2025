@@ -10,7 +10,5 @@ Lancement d'une application de gestion de courses en ligne :
 
 ## Lien vers l'article diffusée
 
-Vous pouvez consulter la démo en direct du jeu ici :
-
 [![Article Diffusée](https://img.shields.io/badge/Article-%20Diffusée-brightgreen)](https://adjagbafortune.github.io/production-diffusion-article-oif/)
 
