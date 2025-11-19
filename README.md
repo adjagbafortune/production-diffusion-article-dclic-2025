@@ -1,5 +1,5 @@
 
-
+<img src="./img/Contexte_du_devoir.png" alt="Contexte_du_devoir.png"> <br>
 <img src="./img/panier1.png" alt="panier1.png/"> <br>
 <img src="./img/panier2.png" alt="panier2.png"/> <br>
 
